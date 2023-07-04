@@ -43,10 +43,6 @@ This is a simple to-do application for Android that allows users to create, mana
 7. To delete a task, tap on the trash can icon next to the task.
 8. The tasks and their completion status will be persisted and will be available on subsequent launches of the application.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 - This application was developed as a sample project.
 - Parts of the code and structure were inspired by various Android development tutorials and resources.
@@ -94,7 +90,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## Credits
 
-This application was developed by [Your Name]. Feel free to contact me with any questions or feedback.
+This application was developed by [Sharon Mwale](https://github.com/sharon-mwale/). Feel free to contact me with any questions or feedback.
 
 ## License
 

@@ -53,6 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Folder Structure
 
 The project follows a standard Android project structure:
+```
 ├── app
 │   ├── src
 │   │   ├── main
@@ -75,6 +76,7 @@ The project follows a standard Android project structure:
 │   │   └── AndroidManifest.xml
 ├── build.gradle
 └── README.md
+``` 
 
 ## Future Enhancements
 
